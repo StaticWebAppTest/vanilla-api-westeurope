@@ -1,6 +1,1 @@
-module.exports = async function (context, req) {
-  context.res = {
-    // status: 200, /* Defaultss to 200 */
-    body: { text: "Hellosaa from the API" },
-  };
-};
+module.exports = async function (context, req) {  context.res = { body: { text:'2021-05-07 11:11:23.190677'},  };};
