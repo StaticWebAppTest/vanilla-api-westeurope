@@ -1,1 +1,1 @@
-module.exports = async function (context, req) {  context.res = { body: { text:'2021-08-23 13:25:31.724308'},  };};
+module.exports = async function (context, req) {  context.res = { body: { text:'2021-08-23 14:19:23.001741'},  };};
